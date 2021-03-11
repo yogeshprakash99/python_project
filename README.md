@@ -1,2 +1,2 @@
-# python_project
-All my python projects
+# Python_project
+All my Python projects
